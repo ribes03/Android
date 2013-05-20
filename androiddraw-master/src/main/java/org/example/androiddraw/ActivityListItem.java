@@ -16,8 +16,6 @@
 package org.example.androiddraw;
 
 import android.content.Intent;
-import org.apache.commons.lang.builder.EqualsBuilder;
-import org.apache.commons.lang.builder.HashCodeBuilder;
 
 public class ActivityListItem implements Comparable<ActivityListItem> {
 

@@ -15,6 +15,9 @@
  */
 package org.example.androiddraw;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -24,9 +27,6 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class SimpleDrawView extends View implements OnTouchListener {
 

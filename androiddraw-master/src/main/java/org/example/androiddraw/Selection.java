@@ -15,15 +15,12 @@
  */
 package org.example.androiddraw;
 
-import android.app.ListActivity;
-import android.widget.ArrayAdapter;
-import org.androidtransfuse.annotations.*;
-import org.androidtransfuse.intentFactory.IntentFactory;
-
-import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import android.app.ListActivity;
+import android.widget.ArrayAdapter;
 
 /**
  * @author John Ericksen

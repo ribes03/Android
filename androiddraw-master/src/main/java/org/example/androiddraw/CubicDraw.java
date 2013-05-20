@@ -16,11 +16,6 @@
 package org.example.androiddraw;
 
 import android.view.View;
-import org.androidtransfuse.annotations.Activity;
-import org.androidtransfuse.annotations.Layout;
-import org.androidtransfuse.annotations.RegisterListener;
-
-import javax.inject.Inject;
 
 @Activity(label = "@string/app_name")
 @Layout(R.layout.cubic)
